@@ -2,7 +2,7 @@
 
 #### _My first webpage at Epicodus, 10.08.18_
 
-#### By _**Mary McMurray and Brooke Perry**_
+#### By _**Mary McMurray, Brooke Perry, Rohan Moore**_
 
 ## Description
 
@@ -25,9 +25,10 @@ _maryrobinrose@gmail.com_
 
 * _HTML_
 * _Git_
+* _CSS_
 
 ### License
 
 *This software us licensed under the MIT license.*
 
-Copyright (c) 2018 **_Mary McMurray and Brooke Perry_**
+Copyright (c) 2018 **_Mary McMurray, Brooke Perry, Rohan Moore_**
